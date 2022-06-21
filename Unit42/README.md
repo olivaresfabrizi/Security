@@ -4,6 +4,10 @@ Lista de Indicadres de Compromiso (IPs, Dominios, URLs o Hash) de amenazas o ata
 Gallium (https://unit42.paloaltonetworks.com/atoms/gallium/)
 -------
 La Unidad 42 monitorea activamente la infraestructura asociada con varios grupos APT. Un grupo en particular, [GALLIUM](https://attack.mitre.org/groups/G0093/) (también conocido como Operation Soft Cell), estableció su reputación al apuntar a empresas de telecomunicaciones que operan en el sudeste asiático, Europa y África. La orientación geográfica del grupo, el enfoque específico del sector y la competencia técnica, combinados con su uso de malware y tácticas, técnicas y procedimientos (TTP) de actores de amenazas chinos conocidos, han dado como resultado [evaluaciones] de la industria (https://www.cybereason.com /blog/research/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers) que GALLIUM es probablemente un grupo patrocinado por el estado chino.
+
+Comportamiento:
+https://unit42.paloaltonetworks.com/pingpull-gallium/
+
 Indicadores de Compromiso
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Gallium)
 - IPs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/IPs/Gallium)
