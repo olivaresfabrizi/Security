@@ -10,6 +10,7 @@ En esta nueva instancia de la campaña, el actor de amenazas se ha dirigido a us
 Como Zscaler era una de las organizaciones objetivo, nos dio una buena idea de la cadena de ataque completa y los motivos de este actor de amenazas.
 
 Fuente:
+
 https://app.embluemail.com/Online/VON.aspx?data=Y2wy2Y7lzHZW3ncJTkmTyja5oQZ97K6P3yMgNj1t2PHurGFt0oO3yBJvRyYBjINcshrNE4uHHEbJ5zEfaO6rG2x%2Bwr3col14tTHbKMlG6gKx008q%2BEAoxqqu9o%2FNTRXG!-!3K7cCO+5l62L9Z258LbtBrHWEiZlONZObf7cn5tQQhJgVYqOjK9X23SYKKCeSM5G
 https://www.zscaler.com/blogs/security-research/resurgence-voicemail-themed-phishing-attacks-targeting-key-industry
 
