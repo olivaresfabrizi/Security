@@ -49,3 +49,13 @@ PickAxe es un actor de amenazas activo desde al menos agosto de 2017 y continúa
 
 Indicadores de Compromiso
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Pickaxe)
+
+Zero-day-microsoft-exchange-vulnerabilities (https://unit42.paloaltonetworks.com/atoms/zero-day-microsoft-exchange-vulnerabilities/)
+-------
+El 2 de marzo de 2021, Volexity informó sobre la explotación en estado salvaje de varias vulnerabilidades de Microsoft Exchange: CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 y CVE-2021-27065.
+Como resultado de la explotación de estas vulnerabilidades, los adversarios pueden acceder a los servidores de Exchange y permitir la instalación de herramientas adicionales para facilitar el acceso a largo plazo a los entornos de las víctimas. Múltiples grupos han utilizado el método de explotación inicial, lo que significa que la actividad posterior a la explotación puede variar.
+Estas vulnerabilidades afectan a las versiones de los servidores de Microsoft Exchange: Microsoft Exchange 2013, 2016, 2019
+Microsoft ha publicado una actualización de seguridad de emergencia para corregir estas vulnerabilidades. Recomendamos enfáticamente actualizar todos los servidores de Microsoft Exchange a la última actualización disponible de Microsoft inmediatamente.
+
+Indicadores de Compromiso
+- IPs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/IPs/Zero-day-microsoft-exchange-vulnerabilities)
