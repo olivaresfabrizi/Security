@@ -19,6 +19,22 @@ LockBit 2.0 (anteriormente conocido como ABCD ransomware) es un ransomware como 
 Indicadores de Compromiso
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Lockbit-2.0-ransomware)
 
+Mespinoza-ransomware (https://unit42.paloaltonetworks.com/atoms/mespinoza-ransomware/)
+-------
+Mespinoza, un grupo prolífico también conocido como PYSA, que nuestro grupo consultor de seguridad cibernética Unit 42 ha observado ataques en los EE. UU. contra organizaciones editoriales, inmobiliarias, de fabricación industrial y educativas. El FBI publicó recientemente una alerta sobre el grupo luego de una ola de piratería en escuelas K-12, colegios, universidades e incluso seminarios en los Estados Unidos, así como en el Reino Unido.
+
+Para obtener más información sobre este grupo, monitoreamos su infraestructura, incluido un servidor de comando y control (C2) que usa para administrar ataques y un sitio de fugas donde publica datos de víctimas que se negaron a pagar grandes rescates. Estos son algunos hallazgos clave:
+
+Mespinoza es extremadamente disciplinado. Después de acceder a una nueva red, los analistas del grupo estudian los sistemas comprometidos en lo que creemos que es una clasificación para determinar si hay suficientes datos valiosos para justificar el lanzamiento de un ataque a gran escala. Buscan palabras clave como "secreto" y "fraude", lo que sugiere que están buscando archivos confidenciales que tendrían el mayor impacto si se filtraran.
+
+Está publicando datos sobre muchas víctimas. El sitio de filtración de la pandilla proporcionó datos que, según afirma, pertenecen a 147 organizaciones de víctimas, a las que se refiere como "socios". El uso de ese término sugiere que tratan de dirigir el grupo como una empresa profesional y ven a las víctimas como socios comerciales que financian sus ganancias.
+
+Está recibiendo mucho dinero. Nuestros consultores han observado demandas de rescate de hasta 1,6 millones de dólares y pagos de hasta 470.000 dólares.
+
+Indicadores de Compromiso
+- Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Mespinoza-ransomware)
+- IPs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/IPs/Mespinoza-ransomware)
+
 Maze-ransomware (https://unit42.paloaltonetworks.com/atoms/maze-ransomware/)
 -------
 Maze es un ransomware que se descubrió en mayo de 2019 cuando Fallout Exploit Kit lo dejó caer en ese momento. Lo único que hizo que este ransomware fuera diferente es que detectaría el tipo de computadora que comprometió y establecería el rescate en consecuencia. Los rescates más altos se reservarían para los tipos de servidores de víctimas. Los operadores detrás de Maze Ransomware son los pioneros de la doble exorción de sus víctimas. Amenazan a sus víctimas con usar información confidencial para realizar campañas maliciosas y divulgar información confidencial al público si no se paga el rescate. Para probar su punto, los operadores detrás del ransomware Maze tienen un sitio dedicado donde enumeran las identidades de las víctimas y muestras de datos de aquellas que no cumplieron con sus demandas.
