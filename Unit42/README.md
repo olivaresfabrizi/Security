@@ -42,6 +42,7 @@ Maze es un ransomware que se descubrió en mayo de 2019 cuando Fallout Exploit K
 Indicadores de Compromiso
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Maze-ransomware)
 - IPs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/IPs/Maze-ransomware)
+- URLs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/URLs/Maze-ransomware)
 
 Pickaxe (https://unit42.paloaltonetworks.com/atoms/pickaxe/)
 -------
