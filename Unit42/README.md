@@ -12,6 +12,13 @@ Indicadores de Compromiso
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Gallium)
 - IPs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/IPs/Gallium)
 
+Lockbit-2.0-ransomware	(https://unit42.paloaltonetworks.com/atoms/lockbit-2.0-ransomware/)
+-------
+LockBit 2.0 (anteriormente conocido como ABCD ransomware) es un ransomware como servicio (RaaS) de tres años que se ha relacionado con varios ataques de alto perfil. Aprovecha las campañas de marketing para reclutar nuevos afiliados y afirma ofrecer el cifrado más rápido en el mercado de ransomware.
+
+Indicadores de Compromiso
+- Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Lockbit_2.0)
+
 Pickaxe (https://unit42.paloaltonetworks.com/atoms/pickaxe/)
 -------
 PickAxe es un actor de amenazas activo desde al menos agosto de 2017 y continúa activo hasta el día de hoy. El objetivo del adversario es instalar y mantener un popular minero de criptomonedas en la máquina de la víctima. El minero en cuestión es una herramienta de código abierto llamada XMRig que genera la criptomoneda Monero. El malware se entrega a través de descargas a través de la popular plataforma de publicidad Adfly. Los usuarios a menudo son engañados al hacer clic en un anuncio malicioso que hace que la carga útil se entregue a la víctima. Una vez instalado, el malware aprovecha los scripts VBS y los servicios de redirección, como bitly, para finalmente descargar y ejecutar XMRig. Se ha descubierto que más de 15 millones de víctimas confirmadas están infectadas en campañas recientes, y es probable que las cifras reales oscilen entre 30 y 45 millones de víctimas. Las víctimas se encuentran en todo el mundo.
