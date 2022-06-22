@@ -19,7 +19,7 @@ LockBit 2.0 (anteriormente conocido como ABCD ransomware) es un ransomware como 
 Indicadores de Compromiso
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Lockbit-2.0-ransomware)
 
-Maze-ransomware
+Maze-ransomware (https://unit42.paloaltonetworks.com/atoms/maze-ransomware/)
 -------
 Maze es un ransomware que se descubrió en mayo de 2019 cuando Fallout Exploit Kit lo dejó caer en ese momento. Lo único que hizo que este ransomware fuera diferente es que detectaría el tipo de computadora que comprometió y establecería el rescate en consecuencia. Los rescates más altos se reservarían para los tipos de servidores de víctimas. Los operadores detrás de Maze Ransomware son los pioneros de la doble exorción de sus víctimas. Amenazan a sus víctimas con usar información confidencial para realizar campañas maliciosas y divulgar información confidencial al público si no se paga el rescate. Para probar su punto, los operadores detrás del ransomware Maze tienen un sitio dedicado donde enumeran las identidades de las víctimas y muestras de datos de aquellas que no cumplieron con sus demandas.
 
