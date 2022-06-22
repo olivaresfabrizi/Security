@@ -19,6 +19,13 @@ LockBit 2.0 (anteriormente conocido como ABCD ransomware) es un ransomware como 
 Indicadores de Compromiso
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Lockbit-2.0-ransomware)
 
+Maze-ransomware
+-------
+Maze es un ransomware que se descubrió en mayo de 2019 cuando Fallout Exploit Kit lo dejó caer en ese momento. Lo único que hizo que este ransomware fuera diferente es que detectaría el tipo de computadora que comprometió y establecería el rescate en consecuencia. Los rescates más altos se reservarían para los tipos de servidores de víctimas. Los operadores detrás de Maze Ransomware son los pioneros de la doble exorción de sus víctimas. Amenazan a sus víctimas con usar información confidencial para realizar campañas maliciosas y divulgar información confidencial al público si no se paga el rescate. Para probar su punto, los operadores detrás del ransomware Maze tienen un sitio dedicado donde enumeran las identidades de las víctimas y muestras de datos de aquellas que no cumplieron con sus demandas.
+
+Indicadores de Compromiso
+- Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Maze-ransomware)
+
 Pickaxe (https://unit42.paloaltonetworks.com/atoms/pickaxe/)
 -------
 PickAxe es un actor de amenazas activo desde al menos agosto de 2017 y continúa activo hasta el día de hoy. El objetivo del adversario es instalar y mantener un popular minero de criptomonedas en la máquina de la víctima. El minero en cuestión es una herramienta de código abierto llamada XMRig que genera la criptomoneda Monero. El malware se entrega a través de descargas a través de la popular plataforma de publicidad Adfly. Los usuarios a menudo son engañados al hacer clic en un anuncio malicioso que hace que la carga útil se entregue a la víctima. Una vez instalado, el malware aprovecha los scripts VBS y los servicios de redirección, como bitly, para finalmente descargar y ejecutar XMRig. Se ha descubierto que más de 15 millones de víctimas confirmadas están infectadas en campañas recientes, y es probable que las cifras reales oscilen entre 30 y 45 millones de víctimas. Las víctimas se encuentran en todo el mundo.
