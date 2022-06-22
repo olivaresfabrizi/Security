@@ -17,7 +17,7 @@ Lockbit-2.0-ransomware	(https://unit42.paloaltonetworks.com/atoms/lockbit-2.0-ra
 LockBit 2.0 (anteriormente conocido como ABCD ransomware) es un ransomware como servicio (RaaS) de tres años que se ha relacionado con varios ataques de alto perfil. Aprovecha las campañas de marketing para reclutar nuevos afiliados y afirma ofrecer el cifrado más rápido en el mercado de ransomware.
 
 Indicadores de Compromiso
-- Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Lockbit_2.0)
+- Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Lockbit-2.0-ransomware)
 
 Pickaxe (https://unit42.paloaltonetworks.com/atoms/pickaxe/)
 -------
