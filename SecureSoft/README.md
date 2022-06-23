@@ -4,6 +4,7 @@ Lista de Indicadres de Compromiso (IPs, Dominios, URLs o Hash) de amenazas o ata
 Ciberdelincuentes Tropic Trooper
 -------
 Investigadores de ciberseguridad han descubierto una nueva campaña atribuida al grupo de hackers chino "Tropic Trooper", que emplea un novedoso cargador llamado Nimbda y una nueva variante del troyano Yahoyah.
+
 El troyano se incluye en una herramienta de software llamada 'SMS Bomber', que se utiliza para ataques de denegación de servicio (DoS) contra teléfonos, inundándolos con mensajes. Las herramientas como esta son comúnmente utilizadas por los ciberdelincuentes "principiantes" que desean lanzar ataques contra los sitios. Según un informe de Check Point, los ciberdelincuentes también demuestran un profundo conocimiento criptográfico, extendiendo la especificación AES en una implementación personalizada.
 
 Fuente:
