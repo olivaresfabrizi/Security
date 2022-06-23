@@ -18,6 +18,7 @@ LockBit 2.0 (anteriormente conocido como ABCD ransomware) es un ransomware como 
 
 Indicadores de Compromiso:
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Lockbit-2.0-ransomware)
+- HASH (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/HASH/Lockbit-2.0-ransomware)
 
 Mespinoza-ransomware (https://unit42.paloaltonetworks.com/atoms/mespinoza-ransomware/)
 -------
