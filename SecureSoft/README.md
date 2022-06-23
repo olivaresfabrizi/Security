@@ -11,7 +11,7 @@ Fuente:
 - https://app.embluemail.com/Online/VON.aspx?data=AEeyEvn%2F%2BFL7PT6cEBUjgcLoB2kJc9oVHbvdaotc7361zQGSOsDjjIiqNfS6qnPSAJkEBs7NTSmUOKngCj4i77wl4GkXw%2BfP%2FUigpChxXlQfu%2BxwdHY12BfIn0HqatB8!-!Vc9pwO4yOE44kZMJldStHYxYF8e+npCuqwL0gkVZytvaZrSzntWdnMrf+HZKi+Hj
 - https://www.bleepingcomputer.com/news/security/chinese-hackers-target-script-kiddies-with-info-stealer-trojan/
 
-Indicadores de Compromiso
+Indicadores de Compromiso:
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/SecureSoft/Domains/Tropic-Trooper)
 - HASH (https://github.com/olivaresfabrizi/Security/blob/main/SecureSoft/HASH/Tropic-Trooper)
 - IPs (https://github.com/olivaresfabrizi/Security/blob/main/SecureSoft/IPs/Tropic-Trooper)
@@ -28,5 +28,5 @@ Fuente:
 - https://app.embluemail.com/Online/VON.aspx?data=Y2wy2Y7lzHZW3ncJTkmTyja5oQZ97K6P3yMgNj1t2PHurGFt0oO3yBJvRyYBjINcshrNE4uHHEbJ5zEfaO6rG2x%2Bwr3col14tTHbKMlG6gKx008q%2BEAoxqqu9o%2FNTRXG!-!3K7cCO+5l62L9Z258LbtBrHWEiZlONZObf7cn5tQQhJgVYqOjK9X23SYKKCeSM5G
 - https://www.zscaler.com/blogs/security-research/resurgence-voicemail-themed-phishing-attacks-targeting-key-industry
 
-Indicadores de Compromiso
+Indicadores de Compromiso:
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/SecureSoft/Domains/Voicemail-themed)
