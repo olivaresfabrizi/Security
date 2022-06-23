@@ -10,6 +10,7 @@ Comportamiento:
 
 Indicadores de Compromiso:
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Gallium)
+- HASH (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/HASH/Gallium)
 - IPs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/IPs/Gallium)
 
 Lockbit-2.0-ransomware	(https://unit42.paloaltonetworks.com/atoms/lockbit-2.0-ransomware/)
