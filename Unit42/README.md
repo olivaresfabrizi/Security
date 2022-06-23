@@ -50,6 +50,7 @@ PickAxe es un actor de amenazas activo desde al menos agosto de 2017 y continúa
 
 Indicadores de Compromiso
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Pickaxe)
+- IPs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/IPs/Pickaxe)
 
 Zero-day-microsoft-exchange-vulnerabilities (https://unit42.paloaltonetworks.com/atoms/zero-day-microsoft-exchange-vulnerabilities/)
 -------
