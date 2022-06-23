@@ -35,6 +35,7 @@ Está recibiendo mucho dinero. Nuestros consultores han observado demandas de re
 
 Indicadores de Compromiso:
 - Domains (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/Domains/Mespinoza-ransomware)
+- HASH (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/HASH/Mespinoza-ransomware)
 - IPs (https://github.com/olivaresfabrizi/Security/blob/main/Unit42/IPs/Mespinoza-ransomware)
 
 Maze-ransomware (https://unit42.paloaltonetworks.com/atoms/maze-ransomware/)
